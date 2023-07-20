@@ -162,11 +162,11 @@ input[type=number] {
 }
 @font-face {
   font-family: Inter;
-  src: url("/src/fonts/Inter-Regular.ttf") format("truetype");
+  src: url("./src/fonts/Inter-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: Lora;
-  src: url("/src/fonts/Lora-Regular.tff") format("truetype");
+  src: url("./src/fonts/Lora-Regular.tff") format("truetype");
 }
 .title {
   color: #2F2E2A;
